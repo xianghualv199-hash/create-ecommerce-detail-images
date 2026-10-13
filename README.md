@@ -16,7 +16,7 @@
 将仓库克隆到 Codex Skills 目录：
 
 ```bash
-git clone https://github.com/你的用户名/create-ecommerce-detail-images.git ~/.codex/skills/create-ecommerce-detail-images
+git clone https://github.com/xianghualv199-hash/create-ecommerce-detail-images.git ~/.codex/skills/create-ecommerce-detail-images
 ```
 
 重新打开 Codex，或开始一个新会话，使 Skill 被重新发现。
