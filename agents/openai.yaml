@@ -1,0 +1,9 @@
+interface:
+  display_name: "AI 电商全案图生成"
+  short_description: "从商品分析到3秒主图、分屏排版与交付质检"
+  brand_color: "#194A35"
+  default_prompt: "使用 $create-ecommerce-detail-images 根据我的商品照片制作一套可发布的电商主图与详情页；先规划商品区和文字层级，再生成留白底图并完成可控中文排版。"
+
+policy:
+  allow_implicit_invocation: true
+
